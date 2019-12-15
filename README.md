@@ -24,6 +24,8 @@ python -m pip install -r requirements.txt
 ```
 
 ### Running the tests
+The unit tests are defined in the `test_is_prime.py` file. To run the
+unit tests use:
 ```shell script
 pytest .
 ```
